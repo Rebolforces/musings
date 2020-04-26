@@ -1,1 +1,1 @@
-Sitemap: https://inferred.ai/musings/sitemap.xml
+Sitemap: https://inferred.ai/sitemap.xml
