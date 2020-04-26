@@ -1,1 +1,1 @@
-Sitemap: https://rebolforces.github.io/musings/sitemap.xml
+Sitemap: https://inferred.ai/musings/sitemap.xml
